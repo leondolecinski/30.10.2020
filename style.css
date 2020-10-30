@@ -1,18 +1,16 @@
 .row {
     display: flex;
-    padding: 0 4px;
+    padding: 8px;
   }
-.tabela{
-    flex: 25%;
-    max-width: 25%;
-    padding: 4px;
-  }
+
 .tabela img {
     margin-top: 8px;
-    vertical-align: middle;
     width: 100%;
   }
 img{
     width: 900px;
     height: 300px;
+}
+body {
+    background-color:burlywood ;
 }
